@@ -94,7 +94,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApplicationInstance.cs" />
     <Compile Include="ApplyStudioProjectTemplateRibbonGroup.cs" />
     <Compile Include="FormClickHere.cs">
       <SubType>Form</SubType>
@@ -112,7 +111,6 @@
     <Compile Include="Properties\PluginProperties.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\ASPT.ico" />
     <Resource Include="Resources\Hello.ico" />
     <EmbeddedResource Include="FormClickHere.resx">
       <DependentUpon>FormClickHere.cs</DependentUpon>

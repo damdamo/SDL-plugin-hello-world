@@ -13,9 +13,6 @@ using Sdl.Desktop.IntegrationApi;
 using Sdl.Desktop.IntegrationApi.Extensions;
 using Sdl.TranslationStudioAutomation.IntegrationApi;
 using Sdl.TranslationStudioAutomation.IntegrationApi.Extensions;
-using System;
-using System.Collections.Generic;
-using Sdl.TranslationStudioAutomation.IntegrationApi;
 using Sdl.TranslationStudioAutomation.IntegrationApi.Presentation.DefaultLocations;
 
 using Sdl.Core.PluginFramework;
